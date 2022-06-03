@@ -63,7 +63,9 @@ ps와 top의 차이점
 ```
 kill -9 <name>  => 강제 종료
 ```
-***
+[Linux](https://zzsza.github.io/development/2018/07/18/linux-top/)
+[Linux](https://yurmu.tistory.com/12)
+[Linux](https://imjeongwoo.tistory.com/71)
 ## 2. vim 에디터에서 매크로 사용 방법에 대하여 조사하기 (q , @)
 + q를 누른 후 a~z를 누르고 매크로 저장할 알파벳 선정
 + 매크로로 등록할 행동을 한다
@@ -73,11 +75,6 @@ kill -9 <name>  => 강제 종료
 @@ 방금 실행한 매크로 실행
 10@a 매크로 10회 실행
 ```
-
-
-[Linux](https://zzsza.github.io/development/2018/07/18/linux-top/)
-[Linux](https://yurmu.tistory.com/12)
-[Linux](https://imjeongwoo.tistory.com/71)
 [vim](https://forcecore.tistory.com/1255)
 [vim](https://booolean.tistory.com/849)
 [vim](https://dongjumoon.tistory.com/3)
