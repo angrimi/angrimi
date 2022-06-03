@@ -37,7 +37,7 @@ top은 proc에서 일정 주기로 합산해 cpu 사용율 출력
 - j : job 중심 형태
 ### 4) kill 
 : 프로세스에 종료 시그널을 보낸다. (-9는 강제 종료)
-
+***
 ## 2. vim 에디터에서 매크로 사용 방법에 대하여 조사하기 (q , @)
 ### 1) 매크로 기록
 커맨드 모드 (esc 누른 상태)  
@@ -45,7 +45,7 @@ top은 proc에서 일정 주기로 합산해 cpu 사용율 출력
 q 를 누르고 a ~ z 사이 문자 입력하면 매크로 recording 시작한다. 커맨드 모드로 돌아와서 q를 누르면 recording 종료
 
 ### 2) 매크로 재생
-***중립모드에서 @a 라고 누르면 매크로 a가 재생
+중립모드에서 @a 라고 누르면 매크로 a가 재생
 @a  1회 실행 
 @@ 방금 실행한 매크로 실행
 10@a 매크로 10회 실행
@@ -54,7 +54,7 @@ q 를 누르고 a ~ z 사이 문자 입력하면 매크로 recording 시작한�
  ~/.vimrc 파일을 연다.
 매크로 이름을 h라고 짓고 싶으면
  let @h= ‘ 까지 친 다음에 insert 모드에서 Ctrl-R Ctrl-R h를 누르면 매크로 h의 내용이 입력 된다.
-
+***
 [Linux](https://zzsza.github.io/development/2018/07/18/linux-top/)
 [Linux](https://yurmu.tistory.com/12)
 [Linux](https://imjeongwoo.tistory.com/71)
