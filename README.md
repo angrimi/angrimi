@@ -1,6 +1,6 @@
 # 오픈 소스sw 과제 20223101 위영림 
 ![너무 예쁜 나](https://user-images.githubusercontent.com/106826654/171910374-c0f0a973-43c0-4367-a682-c19f08c1640e.jpg)
-<img src=“https://user-images.githubusercontent.com/106826654/171910374-c0f0a973-43c0-4367-a682-c19f08c1640e.jpg” width=“100” height=“100”>
+<img src=“https://user-images.githubusercontent.com/106826654/171910374-c0f0a973-43c0-4367-a682-c19f08c1640e.jpg” width=“25” height=“25”>
 
 ## 1. 리눅스 명령어 : top, ps, jobs, kill 명령어 조사하기
 ### 1) top
