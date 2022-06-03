@@ -5,14 +5,16 @@
  : 실시간으로 프로세스 정보를 확인할 수 있는 명령어이다. q를 눌러 작동을 멈출 수 있다. ps와 달리 지속적인 모니터링 기능(작업관리자와 유사)
 실행 상태에서 다양한 명령을 입력하여 프로세스 상태를 출력하거나 제어가 가능하다.
 *top 실행 후 명령어*
-  shift + p : CPU 사용률 내림차순
-  shit + m : 메모리 사용률 내림차순
-  shift + t : 프로세스가 돌아가고 있는 시간 순
-  k : kill. k 입력 후 PID 번호 작성. signal은 9
-  f : sort field 선택 화면 -> q 누르면 RES순으로 정렬
-  a : 메모리 사용량에 따라 정렬
-  b : Batch 모드로 작동
-  1 : CPU Core별로 사용량 보여줌
+|내용|설명|
+|---|---|---|
+|shift + p | CPU 사용률 내림차순|
+|shit + m | 메모리 사용률 내림차순|
+|shift + t : 프로세스가 돌아가고 있는 시간 순|
+|k | kill. k 입력 후 PID 번호 작성. signal은 9|
+|f | sort field 선택 화면 -> q 누르면 RES순으로 정렬|
+|a | 메모리 사용량에 따라 정렬|
+|b | Batch 모드로 작동|
+|1 | CPU Core별로 사용량 보여줌|
 *ps와 top의 차이점*
   ps는 ps한 시점에 proc에서 검색한 cpu 사용량
   top은 proc에서 일정 주기로 합산해 cpu 사용율 출력
@@ -50,5 +52,7 @@ q 를 누르고 a ~ z 사이 문자 입력하면 매크로 recording 시작한�
 [Linux](https://forcecore.tistory.com/1255)
 [vim](https://zzsza.github.io/development/2018/07/18/linux-top/)
  
+ 
+
 
 
