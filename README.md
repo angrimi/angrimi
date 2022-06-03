@@ -65,27 +65,22 @@ kill -9 <name>  => 강제 종료
 ```
 ***
 ## 2. vim 에디터에서 매크로 사용 방법에 대하여 조사하기 (q , @)
-### 1) 매크로 기록
-커맨드 모드 (esc 누른 상태)  
-매크로를 사용하려면 커맨드 모드에서 @+a~z 를 입력
-q 를 누르고 a ~ z 사이 문자 입력하면 매크로 recording 시작한다. 커맨드 모드로 돌아와서 q를 누르면 recording 종료
++ q를 누른 후 a~z를 누르고 매크로 저장할 알파벳 선정
++ 매크로로 등록할 행동을 한다
++ 마지막에 q를 눌러 등록 종료
+```
+@a  1회 실행 
+@@ 방금 실행한 매크로 실행
+10@a 매크로 10회 실행
+```
 
-### 2) 매크로 재생
-중립모드에서 @a 라고 누르면 매크로 a가 재생
-+ @a  1회 실행 
-+ @@ 방금 실행한 매크로 실행
-+ 10@a 매크로 10회 실행
 
-### 3) 매크로 파일 저장
- ~/.vimrc 파일을 연다.
-매크로 이름을 h라고 짓고 싶으면
- let @h= ‘ 까지 친 다음에 insert 모드에서 Ctrl-R Ctrl-R h를 누르면 매크로 h의 내용이 입력 된다.
-***
 [Linux](https://zzsza.github.io/development/2018/07/18/linux-top/)
 [Linux](https://yurmu.tistory.com/12)
 [Linux](https://imjeongwoo.tistory.com/71)
 [vim](https://forcecore.tistory.com/1255)
 [vim](https://booolean.tistory.com/849)
+[vim](https://dongjumoon.tistory.com/3)
 
  
 
