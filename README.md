@@ -45,6 +45,8 @@ q 를 누르고 a ~ z 사이 문자 입력하면 매크로 recording 시작한�
 매크로 이름을 h라고 짓고 싶으면
  let @h= ‘ 까지 친 다음에 insert 모드에서 Ctrl-R Ctrl-R h를 누르면 매크로 h의 내용이 입력 된다.
 
-출처 : 
+[Linux](https://forcecore.tistory.com/1255)
+[vim](https://zzsza.github.io/development/2018/07/18/linux-top/)
+ 
 
 
