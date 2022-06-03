@@ -1,6 +1,6 @@
 # 오픈 소스sw 과제 20223101 위영림 
 ![너무 예쁜 나](https://user-images.githubusercontent.com/106826654/171910374-c0f0a973-43c0-4367-a682-c19f08c1640e.jpg)
-<img src=“https://user-images.githubusercontent.com/106826654/171910374-c0f0a973-43c0-4367-a682-c19f08c1640e.jpg” width=“60” height=“60”>
+<img src=“https://user-images.githubusercontent.com/106826654/171910374-c0f0a973-43c0-4367-a682-c19f08c1640e.jpg” width=“100” height=“100”>
 
 ## 1. 리눅스 명령어 : top, ps, jobs, kill 명령어 조사하기
 ### 1) top
@@ -45,7 +45,7 @@ top은 proc에서 일정 주기로 합산해 cpu 사용율 출력
 q 를 누르고 a ~ z 사이 문자 입력하면 매크로 recording 시작한다. 커맨드 모드로 돌아와서 q를 누르면 recording 종료
 
 ### 2) 매크로 재생
-중립모드에서 @a 라고 누르면 매크로 a가 재생
+***중립모드에서 @a 라고 누르면 매크로 a가 재생
 @a  1회 실행 
 @@ 방금 실행한 매크로 실행
 10@a 매크로 10회 실행
