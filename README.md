@@ -1,6 +1,6 @@
 # 오픈 소스sw 과제 20223101 위영림 
 ![KakaoTalk_20220604_015252015](https://user-images.githubusercontent.com/106826654/171910374-c0f0a973-43c0-4367-a682-c19f08c1640e.jpg)
-
+<img src=“” width=“640” height=“480”>
 
 ## 1. 리눅스 명령어 : top, ps, jobs, kill 명령어 조사하기
 ### 1) top
